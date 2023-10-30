@@ -1,0 +1,10 @@
+pyfiglet
+telebot
+colorlog
+pytube
+python-telegram-bot
+colorama
+keyboard
+pygetwindow
+pyautogui
+pystyle
